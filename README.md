@@ -1,2 +1,3 @@
-this is my first python
-# getting_started
+# Getting Started
+
+This is my first Python project.
